@@ -22,3 +22,4 @@ fetch(apiRAwgames + PlaystationA)
 
 
 .catch(err => alert ("no game"))
+
